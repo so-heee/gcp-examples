@@ -1,7 +1,7 @@
 RUNTIME := go113
-PROJECT_ID_DEV := recotori-dev-61c27
+PROJECT_ID_DEV := 
 
-.PHONY: deploy-dev
+.PHONY: deploy
 deploy-dev:
 	gcloud functions deploy HelloPubSub \
 	--trigger-topic helloworld \
