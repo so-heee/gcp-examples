@@ -1,3 +1,4 @@
 config/.env.develop.yaml
 config/.env.staging.yaml
 config/.env.production.yaml
+go.sum

@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	function "example.com/helloworld"
+	function "example.com/pubsub"
 	"github.com/GoogleCloudPlatform/functions-framework-go/funcframework"
 )
 
